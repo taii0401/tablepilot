@@ -74,29 +74,29 @@ Laravel API
 開發前優先參考：
 
 ```text
-../../Knowledge/Laravel
-../../Knowledge/React
-../../Knowledge/MySQL
-../../Knowledge/Redis
-../../Knowledge/Architecture
+../AI/Knowledge/Laravel
+../AI/Knowledge/React
+../AI/Knowledge/MySQL
+../AI/Knowledge/Redis
+../AI/Knowledge/Architecture
 ```
 
 若涉及 AWS：
 
 ```text
-../../Knowledge/AWS
+../AI/Knowledge/AWS
 ```
 
 若涉及 AI Agent：
 
 ```text
-../../Knowledge/AI-Agent
+../AI/Knowledge/AI-Agent
 ```
 
 若涉及 Queue / Redis：
 
 ```text
-../../Knowledge/Redis
+../AI/Knowledge/Redis
 ```
 
 並遵循：

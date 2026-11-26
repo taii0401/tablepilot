@@ -214,7 +214,7 @@ Business Rule 修改時必須同步更新此文件。
 Schema 設計需參考：
 
 ```text
-../../Knowledge/Architecture/database-design.md
+../AI/Knowledge/Architecture/database-design.md
 ```
 
 ---
