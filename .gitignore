@@ -1,0 +1,19 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Dependencies
+**/vendor/
+**/node_modules/
+
+# Laravel runtime
+backend/storage/logs/*
+backend/bootstrap/cache/*.php
+
+# Docker local overrides
+compose.override.yaml
+
+# Database backups
+*.sql
+*.dump
